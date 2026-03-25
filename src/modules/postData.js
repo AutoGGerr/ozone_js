@@ -1,4 +1,4 @@
-import second from "./second"
+import second from "./load"
 
 const postData = () => {
     return fetch('http://localhost:3000/goods', {
